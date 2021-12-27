@@ -5,11 +5,9 @@ This code takes in a file, and throws an error if the file is not found.  Then, 
 in numerical order. The one, long compound sentence is now numerous simple sentences. 
 
 
-Example Outcome: Using file - sentences.txt
 
-Enter file name: sentences.txt
-Contents of File:
-My name is Sophia, but I am known as Soph, and I love to go to the gym, for the gym helps me de-stress.
+
+Example Outcome: Using file - sentences.txt
 
 1 :  My name is Sophia.
 2 :  I am known as Soph.
